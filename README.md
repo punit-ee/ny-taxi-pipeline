@@ -1,2 +1,3 @@
 # ny-taxi-pipeline
-The NY Taxi Data Pipeline is an end-to-end data engineering project designed to demonstrate a production-grade ETL/ELT architecture using modern open-source tools — Apache Airflow, dbt, and Postgres on local and GCP, BigQuery and 
+The NY Taxi Data Pipeline is an end-to-end data engineering project designed to demonstrate a production-grade ETL/ELT architecture using modern open-source tools — Apache Airflow, dbt, and Postgres.
+It processes real-world New York City Taxi Trip Records, automating data ingestion, validation, transformation, and analytics-ready output following a structured Raw → Core → Analytics (Medallion-style) architecture.
